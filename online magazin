@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+        <style>
+            .big-box{
+              display: grid; 
+              width: 200px;
+              display: inline-block;
+              
+            }
+            .tavar foto{
+                border-radius: 10px;
+                width: 150;
+
+            }
+
+            .summasi{
+                font-size: 20px;
+                font-family: Arial;
+            }
+            .turi{
+                font-size: 15px;
+                font-family: Arial;
+            }
+            .aktivligi{
+                font-size: 12px;
+                color: gray;
+            }
+            .btn{
+                background-color: blueviolet;
+                color: azure;
+                border: none;
+                border-radius: 10px;
+                padding-bottom: 10px;
+                padding-right: 80px;
+                padding-top: 10px;
+                padding-left: 80px;
+            }
+            .iconka{
+                background-color: white;
+                border-radius: 50%;
+                width: 30px;
+                height: 30px;
+                border: none;
+                position: absolute;
+                right: 785px;
+                
+            }
+
+        </style>
+    <body>
+        <div class="big-box">
+            <div class="picture">
+                <img src="klaviatura.jpg" alt="klaviatura" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">588 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="ai.jpg" alt="airpods" class="airpods foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">450 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="smart watch.jpg" alt="smart" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">820 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="fo.jpg" alt="fodbolka" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">120 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="krasofka.jpg" alt="krasofka" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">250 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="ko.jpg" alt="koja" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">650 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="basketbol top.jpg" alt="top" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">890 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="gantell.jpg" alt="gantell" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">350 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="lampa.jpg" alt="lampa" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">299 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="big-box">
+            <div class="picture">
+                <img src="shay.jpg" alt="shaynek" class="tavar foto">
+                <button class="iconka"><i class="fa-regular fa-heart"></i></button>
+            </div>
+            <div class="dress">
+                <div>
+                    <p class="summasi">425 000 som</p>
+                </div>
+                <div>
+                    <p class="turi">Simsiz mexanik klaviatura</p>
+                </div>
+                <div>
+                    <p class="aktivligi">⭐4.9(1819 pikirler)</p>
+                </div>
+                <div>
+                    <button class="btn">Sebetke</button>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
